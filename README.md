@@ -127,12 +127,17 @@ There are some recommendation to incerase response rate. There are :
 1. Targetted marketing
     There are some differet distributions in some feature that need to condisers as good target for increasing response.
     Good target are customer that have 0 - 20 recency or have total accepted campaign >= 2 or have income > 70,000.
+   
     <img src="images/image11.png" alt="Logo" width="500" height="auto">
-2. Discount
+    
+3. Discount
     Discount is an action to stimulate customer to keep buy a product under < 20 days so customer will attract to response to campaign.
+   
     <img src="images/image12.png" alt="Logo" width="500" height="auto">
-3. Product recommendation
+    
+5. Product recommendation
     Recommend more product in meat and wines beacuse there are difference distribution in response.
+   
     <img src="images/image13.png" alt="Logo" width="500" height="auto">
 
 
