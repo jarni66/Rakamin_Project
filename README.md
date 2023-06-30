@@ -14,7 +14,7 @@ Business metric :
 - Response rate
 
 # Getting Started
-To run this project you will need Visual Studio Code to run web scraping script and Jupyter notebook to run data exploratory.
+To run this project you will need Jupyter notebook. Project having some stages on it's process and combined in source_code_master.ipynb.
 
 ## Built with
 - [![Python][Python.com]][Python-url]
